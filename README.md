@@ -1,5 +1,6 @@
 # Security and Permissions
 
+### Injection:
 
 ```yaml
  - name: Assign label
@@ -38,3 +39,8 @@ your title.
           echo "Issue is not about a bug"
           fi
 ```
+
+## Permissions
+
+Permissions are set at job level and they define the scopo
+of the GITHUB_TOKEN
