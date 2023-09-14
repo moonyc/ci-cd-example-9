@@ -47,4 +47,5 @@ of the GITHUB_TOKEN
 
 ## Third-party permissions
 
-OpenID Connect Approach
+OpenID Connect Approach 
+<a href="https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/configuring-openid-connect-in-amazon-web-services">Docs: applied to AWS</a>
