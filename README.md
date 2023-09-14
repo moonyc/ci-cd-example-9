@@ -44,3 +44,7 @@ your title.
 
 Permissions are set at job level and they define the scopo
 of the GITHUB_TOKEN
+
+## Third-party permissions
+
+OpenID Connect Approach
